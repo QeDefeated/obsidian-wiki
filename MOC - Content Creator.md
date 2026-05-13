@@ -8,7 +8,7 @@ tags:
 
 # MOC - База знаний контент креатора
 
-> Собрано из 10 видео Katie Steckly + ASMR анализ + клиппинг гайд — полная база знаний контент креатора
+> Собрано из 10 видео Katie Steckly + ASMR анализ + клиппинг гайд + курс заработка + гайд по синхронизации — полная база знаний контент креатора
 
 ---
 
@@ -46,6 +46,7 @@ tags:
 
 ## Заработок на контенте
 
+- [[YouTube Earning Course]] - бесплатный курс: YouTube, продажи, контент, нейросети, тайм-менеджмент
 - [[Clipping Sites Guide]] - клиппинг сайты, площадки, монтаж, кейсы с Reddit
 
 ---
@@ -54,6 +55,12 @@ tags:
 
 - [[Productivity System]] - 5 правил non-hustle продуктивности
 - [[Weekly Productivity Routine]] - недельное расписание Katie
+
+---
+
+## Инструменты
+
+- [[Obsidian Sync Guide]] - синхронизация Obsidian на двух компьютерах (Git, облако, Syncthing)
 
 ---
 
@@ -114,6 +121,12 @@ tags:
 | `#clipping` | Клиппинг и нарезка |
 | `#заработок` | Заработок на контенте |
 | `#whop` | Площадка Whop |
+| `#нейросети` | AI и нейросети для контента |
+| `#продажи` | Продажи и работа с клиентами |
+| `#копирайтинг` | Тексты и копирайтинг |
+| `#sync` | Синхронизация Obsidian |
+| `#мотивация` | Мотивация и приоритеты |
+| `#telegram` | Telegram-каналы |
 
 ---
 
@@ -139,8 +152,10 @@ tags:
 2. [[ASMR Genre Analysis]]
 3. [[ASMR Video Scripts]]
 
-### Я хочу зарабатывать на клиппинге
-1. [[Clipping Sites Guide]]
+### Я хочу зарабатывать в интернете
+1. [[YouTube Earning Course]]
+2. [[Clipping Sites Guide]]
+3. [[Start YouTube Channel 2026]]
 
 ### Я хочу улучшить качество видео
 1. [[Sony Camera Settings]]
@@ -148,8 +163,12 @@ tags:
 3. [[Vlogging Guide]]
 4. [[YouTube Thumbnails]]
 
+### Я хочу синхронизировать Obsidian
+1. [[Obsidian Sync Guide]]
+
 ---
 
-## Источник
+## Источники
 
-Все видео: **Katie Steckly** ([YouTube](https://www.youtube.com/@KatieSteckly)) | [Instagram](https://www.instagram.com/katiesteckly) | [Creatorly Media](https://www.creatorlymedia.com)
+- **Katie Steckly** ([YouTube](https://www.youtube.com/@KatieSteckly)) | [Instagram](https://www.instagram.com/katiesteckly) | [Creatorly Media](https://www.creatorlymedia.com)
+- **Матвей Северянин** — курс по заработку в интернете через YouTube
