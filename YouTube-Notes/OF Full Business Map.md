@@ -45,6 +45,16 @@ aliases:
 18. [[#18. Таймлайн роста — реалистичные ожидания]]
 19. [[#19. Инструменты и софт]]
 20. [[#20. Чек-листы]]
+21. [[#21. Fansly — мультитирная монетизация]]
+22. [[#22. Mass Messages — шаблоны и формулы конверсий]]
+23. [[#23. Кэм-сайты — дополнительный доход]]
+24. [[#24. Платный трафик — Adult Ad Networks]]
+25. [[#25. Рекрутинг моделей для агентства]]
+26. [[#26. Реалистичный таймлайн заработка (с цифрами)]]
+27. [[#27. Snapchat как канал трафика]]
+28. [[#28. Мужчины на OF — стратегии]]
+29. [[#29. Налоги — W9 и W-8BEN]]
+30. [[#30. Troubleshooting — когда OF не работает]]
 
 ---
 
@@ -1484,8 +1494,697 @@ graph TD
 
 ---
 
+## 21. Fansly — мультитирная монетизация
+
+### Почему Fansly конвертит лучше OF
+
+| Преимущество Fansly | Отличие от OF |
+|---|---|
+| Мульти-тиры ($4.99–$499) | OF ограничен $3–$50 |
+| Разная цена PPV по тиру | OF — единая цена для всех |
+| Поиск и FYP-страница | OF — нет внутреннего дискавери |
+| Тип-лимит $500 | OF — $200 |
+| Пейауты 1–2 дня | OF — 3–5 дней |
+
+**Результат:** Тот же креатор, тот же контент → **+30–40% дохода** на Fansly при оптимизированном мессаджинге.
+
+### Структура тиров
+
+```
+Free ($0)       → Тизер + апселл в платный тир
+Bronze ($9.99)  → Базовый контент, PPV $15–$25
+Silver ($29.99) → Эксклюзив, PPV $30–$50, скидки
+Gold ($79.99)   → Премиум, кастомы, early access
+Platinum ($199+)→ VIP, personal messages, video calls
+```
+
+### Ключевые шаблоны сообщений (по тирам)
+
+**Welcome (Free → Paid конверсия):**
+```
+Hey! Welcome to my free tier 💕
+You're getting a taste, but my REAL content is in paid tiers.
+Bronze ($9.99): Daily exclusive photos
+Silver ($29.99): Videos + priority DMs
+Gold ($79.99): Everything + weekly custom content
+Which tier fits you best? 😘
+```
+
+**Tier Upsell (Bronze → Silver):**
+```
+You've been Bronze for 2 weeks. Loving it?
+I'm opening 5 Silver upgrade spots ($29.99/month).
+Silver gets: Full-length videos, Priority DMs, BTS content, Weekly surprise PPV (free)
+First 5 to upgrade get a free 10-min custom video.
+Reply "SILVER" 💎
+```
+> Конверсия: 15–25% engaged Bronze members
+
+**PPV по тирам (одна единица контента — разная цена):**
+- Free: $40 (+ предложение апгрейда)
+- Bronze: $25
+- Silver: $15
+- Gold: FREE (reinforces value)
+
+### Revenue-сравнение (один и тот же креатор)
+
+**OnlyFans (single-tier):**
+```
+500 subs × $15/мес = $7,500
+PPV: $2,500/мес
+Итого: $10,000/мес
+```
+
+**Fansly (multi-tier):**
+```
+100 Free (upsell targets)
+200 Bronze @ $9.99 = $2,000
+150 Silver @ $29.99 = $4,500
+40 Gold @ $79.99 = $3,200
+10 Platinum @ $199 = $2,000
+PPV: $3,500/мес
+Итого: $15,200/мес (+52%)
+```
+
+### Tier Ladder System (долгосрочная стратегия)
+
+```
+Месяц 1: Welcome to Bronze, show value
+Месяц 2: Silver upsell offer
+Месяц 3: Если не апгрейдился — PPV bundle
+Месяц 4: Final Silver push + limited-time discount
+Месяц 5: Loyalty reward (custom content at discount)
+→ Результат: 40–50% Bronze апгрейдятся за 6 месяцев
+```
+
+### Cross-Platform миграция (OF → Fansly)
+
+```
+I'm on both OnlyFans and Fansly, but my Fansly has better perks:
+- Multi-tier options (not available on OF)
+- Higher tip limits ($500 vs $200)
+- Faster payouts
+- Better content organization
+Same content, better features 💎
+```
+
+---
+
+## 22. Mass Messages — шаблоны и формулы конверсий
+
+### Формула конверсии
+
+```
+Hook + Value + Scarcity + CTA = Conversion
+```
+
+**Плохое сообщение:** "New video available! Check it out $25"
+
+**Хорошее сообщение:** "I just filmed something I've NEVER done before... and I'm nervous to show you. But you've been so supportive, I want you to see it first. Only sending to my top fans. Available for 24 hours. $35 to unlock"
+
+### Частота отправки
+
+| Тип страницы | Частота |
+|---|---|
+| Free pages | 2–3 mass messages/неделю |
+| Paid pages | 1–2 mass messages/неделю |
+| Whale-only | 3–5/неделю (отдельный сегмент) |
+
+### Оптимальное время отправки
+
+| Лучшее время | Худшее время |
+|---|---|
+| 8–11 PM (highest open rates) | Понедельник утром |
+| 10 AM–12 PM суббота/воскресенье | Будни 14:00–16:00 |
+| Четверг вечер (pre-weekend) | |
+
+### 10 категорий шаблонов
+
+#### 1. Welcome Messages
+```
+Hey [name]! Welcome to my page! 
+Quick intro: I post [niche] content daily, LOVE chatting in DMs.
+What content are you most excited to see? Let me know and I'll make sure you get it first.
+```
+> +40–60% LTV vs no welcome message
+
+#### 2. PPV Sales (основной доход — 60–70% revenue)
+```
+I just finished editing and WOW... this might be my best video yet.
+Sending to my favorite fans first before I decide if it goes on my feed.
+24-hour exclusive - $40 to unlock
+```
+Attachment: 10-сек тизер (free) + полное видео (PPV locked)
+
+#### 3. Scarcity/FOMO
+```
+Opening 5 custom video slots for this week ONLY.
+First come, first serve.
+$200 for 10-minute custom (your script, your fantasy)
+DM me "CUSTOM" if you want a slot before they're gone!
+```
+→ Update: "3 slots left!" после заполнения 2
+
+#### 4. Flash Sale
+```
+FLASH SALE 🚨
+My entire PPV library (50+ videos), normally $500+
+Right now: $99 for the next 2 HOURS
+After that, price goes back up.
+Reply "YES" and I'll send the bundle.
+```
+> ВАЖНО: Реально соблюдать дедлайн. Credibility = всё.
+
+#### 5. Engagement (не продаёт, строит отношения)
+```
+Quick question babe — what content do you want MORE of?
+A) Lingerie  B) B/G  C) Solo  D) Something else?
+I'm planning next week and want to make YOU happy.
+```
+> 40–50% messages должны быть engagement, не sales → 2–3x higher conversion на sales
+
+#### 6. Storytelling PPV
+```
+Remember when I told you about [topic]?
+Well... I actually went through with it. And I filmed the whole thing.
+I can't even describe it. You just have to watch.
+$45 to unlock. Trust me on this one.
+```
+> Ссылка на прошлый разговор → ощущение personal message
+
+#### 7. Limited Time
+```
+This is your LAST CHANCE
+That video I sent yesterday? Taking it down in 1 hour.
+If you didn't unlock it — now's the time.
+$35 to unlock
+```
+> Resend: Тем, кто не открыл первое сообщение
+
+#### 8. Custom Content Menu
+```
+Custom content menu! 📋
+📸 Photo set (20 pics) - $150
+🎥 Custom video (10 min) - $300
+💬 Video call (15 min) - $200
+What do you want? 😏
+```
+
+#### 9. Retention / Anti-Churn
+```
+Your subscription renews in 3 days! 💎
+Here's what's coming this week:
+[Upcoming content preview]
+Also — renew now and I'll send you an exclusive video as thanks 💕
+```
+
+#### 10. Celebration/Milestone
+```
+Just hit [X] subscribers! 🎉
+To celebrate, here's a FREE exclusive video.
+Thank you for being part of this. You're amazing 💕
+[Unlocked content]
+```
+
+### Math: Revenue от Mass Messages
+
+```
+1 сообщение: 300 fans × 5% conversion × $30 PPV = $450
+3/неделю: $450 × 3 = $1,350/неделю
+В месяц: ~$5,400 только от mass messages
+```
+
+---
+
+## 23. Кэм-сайты — дополнительный доход
+
+### Зачем совмещать OF + Cam
+
+- Tips во время live shows
+- Pay-per-minute приватки
+- Interactive toy revenue (Lovense/OhMiBod)
+- Cross-promo: OF ↔ Cam (фанбаза перетекает)
+- **Результат:** 2–3x доход креатора при добавлении камминга
+
+### Топ-7 кэм-платформ (2026)
+
+| Платформа | Payout | Лучше для | Трафик | Мин. вывод |
+|---|---|---|---|---|
+| **Chaturbate** | 50–60% | Начинающие, высокий трафик | Очень высокий (4M+/день) | $50 |
+| **Stripchat** | 60–70% | VR, tech-forward | Высокий (3M+/день) | $50 |
+| **MyFreeCams** | 60%+ | Лояльная фанбаза | Средне-высокий | $75 |
+| **LiveJasmin** | 30–70% | Премиум, приватки | Высокий | $50 |
+| **BongaCams** | 50–65% | Международный, фетиш | Высокий | $50 |
+| **ManyVids** | 60–65% | Multi-format (clips+cam) | Средний | $50 |
+| **CamSoda** | 50–70% | Интерактив, вирусный | Средний | $25 |
+
+### Заработок на кэме
+
+| Уровень | Доход/мес |
+|---|---|
+| Part-time (10–15 ч/нед) | $500–$2,000 |
+| Full-time | $2,000–$10,000+ |
+| Топ-перформеры | $15,000–$30,000+ |
+
+### Chaturbate — быстрый старт
+
+- Новые модели в "New" секции первую неделю → моментальная видимость
+- Token-система (5¢ за токен для модели)
+- Пик: 8 PM — 2 AM EST будни, раньше на выходных
+- Tip menu: $5 song request, $20 flash, $50 special
+- **Interactive toys (Lovense):** +30–50% к заработку
+- Минимум: 3–4 стрима/нед × 3+ часа
+- **Affiliate program:** агентство получает % от дохода приведённых моделей
+
+### Stripchat — VR и фетиш
+
+- VR-rooms: **2–3x** выше spending per viewer
+- Fan clubs (recurring monthly subs)
+- "Wheel of Fortune" — gamification типпинга
+- Длинные сессии (4+ часов) → лучше placement в поиске
+
+### Формула для агентства
+
+```
+OF subscribers → Промо кэм-расписания через mass messages
+Cam viewers → Промо OF для эксклюзива
+= Двойная monetization одной аудитории
+```
+
+---
+
+## 24. Платный трафик — Adult Ad Networks
+
+### Зачем платный трафик
+
+- Organic (IG, TikTok, Reddit) = proof of concept, но потолок
+- Paid = контролируемый, предсказуемый трафик
+- **Лучший сетап:** Organic (доверие) + Paid (воронка по запросу)
+
+### Топ-10 Adult Ad Networks (2026)
+
+| # | Сеть | Лучше для | Форматы |
+|---|---|---|---|
+| 1 | **TrafficJunky** | Premium tube (Pornhub) | Banner, Video, Native |
+| 2 | **ExoClick** | Масштаб + testing | Native, Banner, Video, Push, Pop |
+| 3 | **JuicyAds** | Тестирование message-market fit | Banner, Native |
+| 4 | **TrafficStars** | Широкий инвентарь | Banner, Native, Push |
+| 5 | **TrafficFactory** | Premium European | Banner, Video |
+| 6 | **Adnium** | Нишевые кампании | Banner, Native |
+| 7 | **TwinRed** | Второй/третий канал | Banner, Pop |
+| 8 | **EroAdvertising** | EU-фокус | Banner, Video |
+| 9 | **Adsterra** | Смешанный (adult + mainstream) | Pop, Push, Banner |
+| 10 | **HilltopAds** | Бюджетный вход | Pop, Banner |
+
+### Два типа кампаний
+
+1. **Creator Recruitment** (для агентств) — привлечение моделей
+2. **Fan Acquisition** (для креаторов/агентств) — привлечение подписчиков
+
+> Это РАЗНЫЕ воронки. Не смешивай в одну кампанию.
+
+### Правила работы с платным трафиком
+
+```
+1. Начни с одной сети (ExoClick или TrafficJunky)
+2. Бюджет на тест: $200–$500
+3. Тестируй: 3 креатива × 3 лендинга × 3 гео
+4. Отделяй: формат, гео, девайс, плейсмент
+5. Оптимизируй по конверсии, не по кликам
+6. Масштабируй только после CPА < целевого
+```
+
+### TrafficJunky (Pornhub ecosystem)
+
+- Премиум tube-инвентарь
+- Self-serve CPM buying
+- Высокий intent (пользователь уже в adult-контексте)
+- Подходит: recruitment funnels, landing pages, pre-sell pages
+- **Правило:** Слабый креатив на premium inventory = быстрый слив бюджета
+
+### ExoClick (масштаб)
+
+- Много форматов одновременно
+- Лучше всего: scale layer ПОСЛЕ того, как message доказан
+- **Правило:** Tight campaign naming + clear geo splits + separate format tests
+
+---
+
+## 25. Рекрутинг моделей для агентства
+
+### Почему manual search не работает
+
+3 bottleneck-а:
+1. **Lead quality inconsistent** — нет единого стандарта квалификации
+2. **Outreach timing poor** — другие агентства быстрее
+3. **Nothing compounds** — нет системы, есть привычка
+
+> «Если процесс зависит от одного человека — это не процесс, это привычка»
+
+### Воронка рекрутинга
+
+```
+Sourcing → Qualification → Outreach → Call → Contract
+```
+
+### Источники лидов
+
+| Канал | Роль в воронке | Trade-off |
+|---|---|---|
+| Instagram/TikTok | Top-of-funnel discovery | Weak intent, бан-риск |
+| X (Twitter) | Быстрый direct contact | Quality меняется быстро |
+| Reddit communities | Pain-point signals | Manual review |
+| OF databases (Outseeker) | Сегментация и list building | Подписка |
+
+### Creator Scorecard (квалификация лида)
+
+| Критерий | Что проверять |
+|---|---|
+| Platform age | Достаточно времени для commitment? |
+| Posting consistency | Активна или заброшена? |
+| Brand clarity | Ниша очевидна за 5 секунд? |
+| Offer readiness | Понимает монетизацию? |
+| Audience quality | Engagement real или пустой? |
+| Operational need | Есть проблемы, которые агентство решит? |
+
+### Outreach-последовательность (3 сообщения)
+
+```
+Message 1: Создать motion (value-first, не pitch)
+  "Hey [name], saw you're new on OF — we help with 
+   24/7 chatting, social promo & leak protection. 
+   Interested in a quick call?"
+
+Message 2: Follow-up (социальное доказательство)
+  "Our creators earn $X in first 90 days. 
+   Here's a case study: [link]"
+
+Message 3: Final (urgency)
+  "Last check-in — we're onboarding 3 new models 
+   this month. Spots filling up."
+```
+
+### Метрики рекрутинга
+
+| Платформа | Reply & Sign Rate | Время на signing |
+|---|---|---|
+| Outseeker (fresh sign-ups) | 30–60% | 2–3 часа |
+| ModelSearch (established) | 15–35% | 5–12 часов |
+| Reddit/IG/Twitter manual | 1–10% | 20–50+ часов |
+
+### Onboarding чеклист
+
+```
+□ KYC/верификация
+□ Account access setup
+□ Watermark setup
+□ Chatting scripts trained
+□ Content calendar set
+□ Pricing agreed
+□ Contract signed (30–90 day trial + weekly payouts)
+```
+
+> **Правило:** Агентства, отвечающие в тот же день новым sign-ups → close rate 50–70%.
+
+---
+
+## 26. Реалистичный таймлайн заработка (с цифрами)
+
+### Неделя 1: Setup, не доход
+
+- Верификация: 24–72 часа
+- Подписка: $4.99–$9.99 (для новых без аудитории)
+- Минимум: 10–15 постов на стене
+- Bio + welcome message + 2–3 promotion accounts
+- **Ожидание:** $0–$50
+
+### Месяц 1: The Grind
+
+| Ситуация | Доход |
+|---|---|
+| Без промо | $0–$200 |
+| С активным self-promotion | $200–$2,000 |
+| С агентством | $2,000–$5,000 |
+
+**Daily schedule (3–4 часа):**
+```
+Утро (30 мин): DM replies, welcome new subs
+Полдень (60–90 мин): Create content (батч на несколько дней)
+День (30 мин): Post on wall + 1 PPV message
+Вечер (60 мин): Промо — Reddit (2–3 subreddits), IG story, Twitter
+```
+
+### Месяцы 2–3: Make-or-Break
+
+| Ситуация | Доход |
+|---|---|
+| Solo moderate effort | $500–$2,000/мес |
+| Solo aggressive promotion | $2,000–$5,000/мес |
+| С агентством | $5,000–$10,000+/мес |
+
+**Что начинает compounding:**
+- Content library растёт → больше value для новых subs
+- PPV библиотека → один message на 100 subs × $15 = $750–$1,000/день
+- Social media аккаунты набирают reach
+- Fan relationships → tips, customs, repeat buys
+
+### Месяцы 4–6: Scale или Plateau
+
+| Ситуация | Доход |
+|---|---|
+| Plateau | $500–$2,000/мес (flat/decline) |
+| Scale | $5,000–$15,000+/мес |
+| Agency-managed optimized | $10,000–$30,000+/мес |
+
+**Что отличает scaling от plateau:**
+- Diversified income (PPV = 60–80% дохода топов)
+- Multi-platform (OF + Fansly + Cam)
+- Paid traffic / collabs / shoutouts
+- Team (chatters, promotion manager)
+
+### Акселераторы vs Замедлители
+
+| Ускоряет | Замедляет |
+|---|---|
+| Existing following (50K+ IG = $5K+ в месяц 1) | Нет маркетинг-стратегии |
+| Агентство с Day 1 | Inconsistent posting |
+| Fansly FYP optimization | Игнорирование DMs |
+| Daily consistency | Underpricing ($4.99 sub + $5 PPV) |
+| Правильная ниша | Работа solo когда нужна помощь |
+
+### Средние цифры рынка
+
+- **Средний** креатор OF: ~$150–180/мес
+- **Top 1%:** зарабатывают 33% всего дохода платформы
+- **Разница:** стратегия, системы и support
+
+---
+
+## 27. Snapchat как канал трафика
+
+### Почему Snapchat работает
+
+- Конверсия в подписчика: **15–30%** (при правильной стратегии)
+- Intimate формат → высокий trust
+- Stories = constant engagement
+- Direct → OF link conversion
+
+### Стратегия
+
+```
+1. Build Snapchat following (add from IG/TikTok bio)
+2. Daily stories: teasers, behind-scenes, "swipe up"
+3. Private snaps → premium Snap → OF upsell
+4. Snap Map для geo-engagement
+5. "Exclusive" content that you "only share on Snap" → OF link
+```
+
+### Конверсионная воронка
+
+```
+Social media → Snap add → Daily story views → 
+Teaser snap → "Full version on my OF" → Subscribe
+```
+
+> Snap + OF = одна из самых высококонверсионных связок после Reddit.
+
+---
+
+## 28. Мужчины на OF — стратегии
+
+### Реальность (2026)
+
+- Мужчины МОГУТ зарабатывать на OF
+- Другая аудитория: gay, bi, curious, fetish-specific
+- Меньше конкуренция в male niches
+
+### Прибыльные male-ниши
+
+| Ниша | Особенность |
+|---|---|
+| Fitness/Bodybuilding | Широкая аудитория, SFW-friendly |
+| Gay/Bi content | Высокий спрос, лояльная база |
+| Feet (male) | Растущий рынок |
+| Dominant/Alpha | Premium pricing |
+| Couple (M/F, M/M) | Высокий PPV |
+| Tutorial/Coaching | Non-explicit, coaching programs |
+
+### Promotion для мужчин
+
+- Twitter/X — основной канал (gay audience)
+- Reddit — r/ladybonersgw, niche subs
+- Grindr/Scruff → Linktree → OF
+- TikTok (fitness, lifestyle тематика)
+- Gay cam sites → OF funnel
+
+### Ключевые отличия от female model
+
+- Цена подписки часто ниже ($5.99–$12.99)
+- PPV может быть высоким в fetish niches
+- Customs + video calls = значимый revenue stream
+- Consistency и engagement ещё важнее (меньше импульсных покупок)
+
+---
+
+## 29. Налоги — W9 и W-8BEN
+
+### W9 (для US-резидентов)
+
+**Что это:** IRS-форма для reporting earnings. OF обязан отправить 1099-NEC при $600+/год.
+
+**Что нужно:**
+- Legal name (НЕ stage name)
+- Mailing address
+- SSN или EIN (не оба!)
+- Tax classification: Individual/sole proprietor
+
+**Заполнение:**
+```
+Line 1: Legal name (Jessica Marie Smith)
+Line 2: Business name (если есть LLC)
+Line 3: ☑ Individual/sole proprietor
+Line 4: Пропустить
+Lines 5–6: Адрес
+Line 7: Пропустить
+Part I: SSN или EIN
+Part II: Подпись + дата
+```
+
+**Submit:** Settings → Banking → Edit W9 Form (24–48 ч проверка)
+
+**Частые ошибки:**
+- ❌ Stage name вместо legal
+- ❌ SSN + EIN (выбери одно)
+- ❌ Нет подписи
+- ❌ Старый адрес
+
+### W-8BEN (для non-US, включая РФ/СНГ)
+
+- Заполняется вместо W9
+- Предотвращает 30% US tax withholding
+- Submit через те же Banking settings
+- Treaty rates могут снизить до 0–15%
+
+### Налоговые правила
+
+- OF **НЕ удерживает** налоги → ты платишь сам
+- Откладывай **25–30%** от заработка на quarterly estimated taxes
+- При $600+/год → получишь 1099-NEC
+- Рекомендация: **LLC** → больше deductions (см. раздел 11)
+
+### Банки для OF (US, 2026)
+
+- **NBKC** — надёжные выплаты, лояльны к adult
+- **Grasshopper** — low fees, creator-friendly
+
+---
+
+## 30. Troubleshooting — когда OF не работает
+
+### Три категории проблем
+
+1. **Platform-level failure** — OF лежит целиком
+2. **Local device/network** — у тебя проблема
+3. **Account-level restriction** — бан/верификация
+
+### Диагностика (по порядку)
+
+```
+1. Проверь status page (официальный) → если platform down, жди
+2. Попробуй другое устройство или сеть (Wi-Fi → mobile data)
+3. Если одно работает а другое нет → проблема локальная
+4. Только потом: clear cache, cookies, DNS
+```
+
+### Quick Diagnostic Table
+
+| Симптом | Вероятная причина | Первое действие |
+|---|---|---|
+| Не открывается нигде | Platform issue | Check status page |
+| Работает на mobile data, не на Wi-Fi | Local network | Switch networks |
+| Login loop/stall | Browser session corruption | Clear cache + cookies |
+| Медиа не загружается | VPN/adblocker/data saver | Отключи VPN/блокировщик |
+| Одно устройство ОК, другое нет | Device-specific | Update app/browser |
+
+### Mobile-специфичные проблемы
+
+- Battery Saver → блокирует background requests
+- Data Saver → режет media loading
+- VPN → ломает session persistence
+- Старый OS → WebView не совместим
+
+**Чеклист mobile:**
+```
+□ Update app/browser
+□ Update OS
+□ Отключить Battery Saver
+□ Отключить Data Saver
+□ Отключить VPN/content filters
+□ Reinstall (последняя мера)
+```
+
+### Для агентств: SOP при даунтайме
+
+```
+1. Один человек проверяет status → broadcast команде
+2. НЕ каждый чаттер improvises свой fix
+3. Единая последовательность диагностики
+4. Документируй каждый attempt
+5. Если аккаунт restricted → НЕ resubmit вслепую
+```
+
+### Верификация не проходит — что делать
+
+**Частые причины reject:**
+- Фото не чёткое / блик / тень
+- Name mismatch (ID vs profile)
+- Unfished payout setup
+- Браузер cache / stale session
+
+**SOP:**
+```
+1. Не resubmit пока не определил причину
+2. Сделай новые фото (чёткий свет, нет бликов)
+3. Проверь: имя на ID = имя в профиле = имя в bank
+4. Clear browser → другой браузер → retry
+5. Если 2 reject → ticket в support с документацией
+```
+
+**Для агентства — шаблон ticket:**
+```
+Subject: Verification Review Request — [Creator Name]
+- Account URL
+- Documents submitted (type, date)
+- Error message received
+- Steps already taken
+- Contact for follow-up
+```
+
+---
+
 ## Источники
 - SirenCY Blog (10 частей, 100+ статей) — sirency.com/blog
+- Outseeker Blog (10 частей, 50+ статей) — outseeker.net/blog
 - Owners 3.0 (Roma Eden) — Telegram-канал
 - Курпатов — нейропсихология
 
