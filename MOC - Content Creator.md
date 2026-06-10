@@ -47,6 +47,7 @@ tags:
 ## OnlyFans
 
 - [[OnlyFans No-PPV Strategy]] - стратегия дорогой подписки без PPV ($15–30), контент-план, retention
+- [[Creator Funnel - YouTube to Patreon and OF]] - воронка YouTube → Patreon → OF + Reddit-трафик
 
 ---
 
@@ -115,6 +116,10 @@ tags:
 | `#no-ppv` | Модель без PPV |
 | `#монетизация` | Монетизация контента |
 | `#retention` | Удержание подписчиков |
+| `#воронка` | Воронка конверсии |
+| `#reddit` | Reddit-трафик |
+| `#patreon` | Patreon стратегия |
+| `#трафик` | Привлечение трафика |
 
 ---
 
@@ -142,6 +147,7 @@ tags:
 
 ### Я хочу вести No-PPV OnlyFans
 1. [[OnlyFans No-PPV Strategy]]
+2. [[Creator Funnel - YouTube to Patreon and OF]]
 
 ### Я хочу улучшить качество видео
 1. [[Sony Camera Settings]]
