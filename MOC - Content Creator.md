@@ -8,7 +8,7 @@ tags:
 
 # MOC - База знаний контент креатора
 
-> Собрано из 10 видео Katie Steckly + ASMR анализ и сценарии — полный гайд по созданию контента
+> Собрано из 10 видео Katie Steckly + ASMR анализ и сценарии + OnlyFans стратегия — полный гайд по созданию контента
 
 ---
 
@@ -41,6 +41,12 @@ tags:
 - [[ASMR Girlfriend Patterns]] - паттерны и выводы из анализа 12 видео
 - [[ASMR Genre Analysis]] - структурный анализ жанра, формула, психология
 - [[ASMR Video Scripts]] - 5 оригинальных сценариев на русском
+
+---
+
+## OnlyFans
+
+- [[OnlyFans No-PPV Strategy]] - стратегия дорогой подписки без PPV ($15–30), контент-план, retention
 
 ---
 
@@ -105,6 +111,10 @@ tags:
 | `#парасоциальность` | Парасоциальные механизмы |
 | `#girlfriend-experience` | ASMR Girlfriend жанр |
 | `#сценарии` | Сценарии видео |
+| `#onlyfans` | OnlyFans стратегия |
+| `#no-ppv` | Модель без PPV |
+| `#монетизация` | Монетизация контента |
+| `#retention` | Удержание подписчиков |
 
 ---
 
@@ -130,6 +140,9 @@ tags:
 2. [[ASMR Genre Analysis]]
 3. [[ASMR Video Scripts]]
 
+### Я хочу вести No-PPV OnlyFans
+1. [[OnlyFans No-PPV Strategy]]
+
 ### Я хочу улучшить качество видео
 1. [[Sony Camera Settings]]
 2. [[Video Editing Tutorial]]
@@ -138,6 +151,8 @@ tags:
 
 ---
 
-## Источник
+## Источники
 
 Все видео: **Katie Steckly** ([YouTube](https://www.youtube.com/@KatieSteckly)) | [Instagram](https://www.instagram.com/katiesteckly) | [Creatorly Media](https://www.creatorlymedia.com)
+
+OnlyFans: **B9 Agency** | **OnlySonar** | **CreatorTraffic** | **FilthyAdult**
