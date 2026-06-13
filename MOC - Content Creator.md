@@ -40,6 +40,7 @@ tags:
 
 - [[Rebrand OnlyFans Guide]] - ребрендинг, видение бренда, 8 элементов, пошаговый план
 - [[Brand Model and Funnel]] - воронка YouTube → Patreon → OF → Fansly, тиры, доход
+- [[Patreon Launch Guide]] - запуск Patreon: тиры, контент ASMR/femdom/таро/гипноз, календарь на месяц
 
 ---
 
@@ -138,7 +139,13 @@ tags:
 ### Я хочу построить/обновить бренд
 1. [[Rebrand OnlyFans Guide]]
 2. [[Brand Model and Funnel]]
-3. [[ASMR Girlfriend Patterns]]
+3. [[Patreon Launch Guide]]
+4. [[ASMR Girlfriend Patterns]]
+
+### Я хочу запустить Patreon
+1. [[Patreon Launch Guide]]
+2. [[Brand Model and Funnel]]
+3. [[Rebrand OnlyFans Guide]]
 
 ### Я хочу быть продуктивнее
 1. [[Productivity System]]
