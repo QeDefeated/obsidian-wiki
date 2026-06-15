@@ -16,6 +16,7 @@ tags:
 
 ### Запуск и стратегия
 - [[Start YouTube Channel 2026]] - план запуска, ниша, оборудование, монетизация
+- [[YouTube Niche Finance AI Hybrid]] - гибридная ниша Finance × AI для EN-рынка
 - [[YouTube Thumbnails]] - дизайн превью для алгоритма 2026
 
 ### Съемка
@@ -121,6 +122,10 @@ tags:
 | `#воронка` | Воронка монетизации |
 | `#монетизация` | Монетизация контента |
 | `#восприятие` | Восприятие контента |
+| `#ai-tools` | AI-инструменты и обзоры |
+| `#personal-finance` | Личные финансы |
+| `#en-market` | Контент для EN-рынка |
+| `#ниша` | Выбор и анализ ниши |
 
 ---
 
@@ -128,10 +133,11 @@ tags:
 
 ### Я хочу начать YouTube канал
 1. [[Start YouTube Channel 2026]]
-2. [[How to Film Yourself]]
-3. [[Sony Camera Settings]]
-4. [[Video Editing Tutorial]]
-5. [[YouTube Thumbnails]]
+2. [[YouTube Niche Finance AI Hybrid]]
+3. [[How to Film Yourself]]
+4. [[Sony Camera Settings]]
+5. [[Video Editing Tutorial]]
+6. [[YouTube Thumbnails]]
 
 ### Я хочу расти в Instagram
 1. [[Instagram Content Planning]]
