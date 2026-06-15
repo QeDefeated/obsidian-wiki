@@ -40,6 +40,7 @@ tags:
 
 - [[Rebrand OnlyFans Guide]] - ребрендинг, видение бренда, 8 элементов, пошаговый план
 - [[Brand Model and Funnel]] - воронка YouTube → Patreon → OF → Fansly, тиры, доход
+- [[Content Perception Guide]] - улучшение восприятия контента на YouTube и OF
 
 ---
 
@@ -119,6 +120,7 @@ tags:
 | `#patreon` | Patreon монетизация |
 | `#воронка` | Воронка монетизации |
 | `#монетизация` | Монетизация контента |
+| `#восприятие` | Восприятие контента |
 
 ---
 
@@ -138,7 +140,8 @@ tags:
 ### Я хочу построить/обновить бренд
 1. [[Rebrand OnlyFans Guide]]
 2. [[Brand Model and Funnel]]
-3. [[ASMR Girlfriend Patterns]]
+3. [[Content Perception Guide]]
+4. [[ASMR Girlfriend Patterns]]
 
 ### Я хочу быть продуктивнее
 1. [[Productivity System]]
@@ -150,10 +153,11 @@ tags:
 3. [[ASMR Video Scripts]]
 
 ### Я хочу улучшить качество видео
-1. [[Sony Camera Settings]]
-2. [[Video Editing Tutorial]]
-3. [[Vlogging Guide]]
-4. [[YouTube Thumbnails]]
+1. [[Content Perception Guide]]
+2. [[Sony Camera Settings]]
+3. [[Video Editing Tutorial]]
+4. [[Vlogging Guide]]
+5. [[YouTube Thumbnails]]
 
 ---
 
