@@ -17,6 +17,8 @@ tags:
 ### Запуск и стратегия
 - [[Start YouTube Channel 2026]] - план запуска, ниша, оборудование, монетизация
 - [[YouTube Niche Finance AI Hybrid]] - гибридная ниша Finance × AI для EN-рынка
+- [[YouTube AI Tools ES Channel]] - контент-план AI Tools канала (ES, 40 тем, партнёрки)
+- [[YouTube Historia Geopolitica ES Channel]] - контент-план Historia/Geopolítica (ES, 40 тем, evergreen)
 - [[YouTube Thumbnails]] - дизайн превью для алгоритма 2026
 
 ### Съемка
@@ -125,6 +127,9 @@ tags:
 | `#ai-tools` | AI-инструменты и обзоры |
 | `#personal-finance` | Личные финансы |
 | `#en-market` | Контент для EN-рынка |
+| `#es-market` | Контент для ES-рынка |
+| `#история` | Исторический контент |
+| `#геополитика` | Геополитика и анализ |
 | `#ниша` | Выбор и анализ ниши |
 
 ---
@@ -134,10 +139,12 @@ tags:
 ### Я хочу начать YouTube канал
 1. [[Start YouTube Channel 2026]]
 2. [[YouTube Niche Finance AI Hybrid]]
-3. [[How to Film Yourself]]
-4. [[Sony Camera Settings]]
-5. [[Video Editing Tutorial]]
-6. [[YouTube Thumbnails]]
+3. [[YouTube AI Tools ES Channel]]
+4. [[YouTube Historia Geopolitica ES Channel]]
+5. [[How to Film Yourself]]
+6. [[Sony Camera Settings]]
+7. [[Video Editing Tutorial]]
+8. [[YouTube Thumbnails]]
 
 ### Я хочу расти в Instagram
 1. [[Instagram Content Planning]]
