@@ -58,6 +58,7 @@ tags:
 ## Иммиграция и Релокация
 
 - [[LatAm Citizenship Without Investor Visa]] - deep research промпт: гражданство LatAm без инвестора/рантье
+- [[LatAm Digital Nomad Tax Optimization]] - deep research промпт: DN виза + налоги + оптимизация для OF-модели $10k/мес
 
 ---
 
