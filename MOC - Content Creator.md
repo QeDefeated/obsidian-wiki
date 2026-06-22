@@ -50,6 +50,7 @@ tags:
 ## Стриминг / Cam Sites
 
 - [[Chaturbate Stream Guide]] - полный гайд по ведению 18+ стримов на Chaturbate (техника, поведение, монетизация, безопасность, воронка CB→OF)
+- [[Kurpatov Chaturbate Fact Map]] - факт-карта Курпатова для Chaturbate (24 факта: доминанта, дофамин, парасоциальность, Lovense-петля, толпа, Троица, ДСМ)
 
 ---
 
@@ -183,9 +184,10 @@ tags:
 
 ### Я хочу начать стримить на Chaturbate
 1. [[Chaturbate Stream Guide]]
-2. [[Kurpatov OF Fact Map]]
-3. [[Brand Model and Funnel]]
-4. [[ASMR Girlfriend Patterns]]
+2. [[Kurpatov Chaturbate Fact Map]]
+3. [[Kurpatov OF Fact Map]]
+4. [[Brand Model and Funnel]]
+5. [[ASMR Girlfriend Patterns]]
 
 ### Я хочу быть продуктивнее
 1. [[Productivity System]]
