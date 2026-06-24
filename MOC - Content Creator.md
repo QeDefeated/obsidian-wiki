@@ -19,6 +19,7 @@ tags:
 - [[YouTube Niche Finance AI Hybrid]] - гибридная ниша Finance × AI для EN-рынка
 - [[YouTube AI Tools ES Channel]] - контент-план AI Tools канала (ES, 40 тем, партнёрки)
 - [[YouTube Historia Geopolitica ES Channel]] - контент-план Historia/Geopolítica (ES, 40 тем, evergreen)
+- [[UAE Ecology Future]] - экология ОАЭ: оптимист / реалист / пессимист — три сценария будущего
 - [[YouTube Thumbnails]] - дизайн превью для алгоритма 2026
 
 ### Съемка
@@ -140,6 +141,7 @@ tags:
 | `#история` | Исторический контент |
 | `#геополитика` | Геополитика и анализ |
 | `#ниша` | Выбор и анализ ниши |
+| `#экология` | Экология и устойчивое развитие |
 
 ---
 
@@ -150,10 +152,11 @@ tags:
 2. [[YouTube Niche Finance AI Hybrid]]
 3. [[YouTube AI Tools ES Channel]]
 4. [[YouTube Historia Geopolitica ES Channel]]
-5. [[How to Film Yourself]]
-6. [[Sony Camera Settings]]
-7. [[Video Editing Tutorial]]
-8. [[YouTube Thumbnails]]
+5. [[UAE Ecology Future]]
+6. [[How to Film Yourself]]
+7. [[Sony Camera Settings]]
+8. [[Video Editing Tutorial]]
+9. [[YouTube Thumbnails]]
 
 ### Я хочу расти в Instagram
 1. [[Instagram Content Planning]]
