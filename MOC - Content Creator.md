@@ -44,6 +44,7 @@ tags:
 - [[Rebrand OnlyFans Guide]] - ребрендинг, видение бренда, 8 элементов, пошаговый план
 - [[Brand Model and Funnel]] - воронка YouTube → Patreon → OF → Fansly, тиры, доход
 - [[Content Perception Guide]] - улучшение восприятия контента на YouTube и OF
+- [[Digital Nomad Brazil Tax Guide]] - налоги digital nomad в Бразилии для OF-модели, CNPJ vs PF
 
 ---
 
