@@ -44,6 +44,7 @@ tags:
 - [[Rebrand OnlyFans Guide]] - ребрендинг, видение бренда, 8 элементов, пошаговый план
 - [[Brand Model and Funnel]] - воронка YouTube → Patreon → OF → Fansly, тиры, доход
 - [[Content Perception Guide]] - улучшение восприятия контента на YouTube и OF
+- [[Growth Roadmap 3k to 10k]] - операционный план роста $3.4k → $10k/мес (Reddit, DM, PPV, трафик)
 
 ---
 
